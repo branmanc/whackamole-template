@@ -13,6 +13,7 @@ def random_position():
     col = random.randrange(0, 20)
     row = random.randrange(0, 16)
     return col *32, row *32
+##
 
 
 
